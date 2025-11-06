@@ -30,5 +30,5 @@ Esse repositório armazena o conteúdo abordado na disciplina de Algoritmos e Es
 | Maratona* | 5 |  
 | ADA* | 5 |  
 
-*Maratona é uma avaliação prática de programação realizada por todas as turmas de AEDs1.
+*Maratona é uma avaliação prática de programação realizada por todas as turmas de AEDs1.  
 *ADA é uma avaliação global que contempla todas as matérias estudadas em todos os semestres do curso.
