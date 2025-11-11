@@ -19,14 +19,14 @@ Esse repositório armazena o conteúdo abordado na disciplina de Algoritmos e Es
 - C++
 
 ## 🧑‍🏫 Professor
-**Walisson Ferreira de Carvalho**
+Aulas teóricas e práticas: **Walisson Ferreira de Carvalho**
 
 ## 🧠 Distribuição de Pontos
 | Atividade | Pontos |
 |:--------------:|:------:|
-| Provas | 75 |  
+| Provas teóricas | 75 |  
 | Exercícios | 10 | 
-| Provas Práticas | 5 |   
+| Provas práticas | 5 |   
 | Maratona* | 5 |  
 | ADA* | 5 |  
 
